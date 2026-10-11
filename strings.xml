@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Magnet to TorBox</string>
+
+    <!-- Settings screen -->
+    <string name="intro">Tap a magnet link in any browser or app and it is sent straight to your TorBox account.</string>
+    <string name="api_key_label">TorBox API key</string>
+    <string name="api_key_hint">Paste your API key</string>
+    <string name="api_key_help">Find it on torbox.app under Settings. It is stored only on this phone.</string>
+    <string name="seed_label">Seeding</string>
+    <string name="save">Save</string>
+    <string name="test_key">Test key</string>
+    <string name="saved">Saved.</string>
+    <string name="checking">Checking…</string>
+    <string name="manual_label">Send a magnet manually</string>
+    <string name="magnet_hint">magnet:?xt=urn:btih:…</string>
+    <string name="paste">Paste</string>
+    <string name="send">Send to TorBox</string>
+    <string name="clipboard_empty">The clipboard is empty.</string>
+    <string name="how_title">Using it</string>
+    <string name="how_body">Tap any magnet link. If Android asks which app to use, choose Magnet to TorBox and tap Always. To undo that later, clear this app\'s defaults in the system app settings.</string>
+
+    <!-- Magnet dialog -->
+    <string name="sending">Sending to TorBox…</string>
+    <string name="sent_title">Sent to TorBox</string>
+    <string name="failed_title">Couldn\'t add magnet</string>
+    <string name="not_a_magnet">That doesn\'t look like a torrent magnet link.</string>
+    <string name="need_key">Add your TorBox API key in the app first.</string>
+    <string name="open_settings">Open settings</string>
+    <string name="close">Close</string>
+</resources>

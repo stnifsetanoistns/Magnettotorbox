@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Index = value sent as TorBox "seed" (0 means: leave it out, use account setting). -->
+    <string-array name="seed_options">
+        <item>Use my TorBox account setting</item>
+        <item>Auto</item>
+        <item>Always seed</item>
+        <item>Never seed</item>
+    </string-array>
+</resources>
